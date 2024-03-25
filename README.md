@@ -1,0 +1,1 @@
+# Leetcode_Q1150_CheckIfaNumberIsMajorityElementinaSortedArray_Py
